@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+header h1 { color: navy; }
+img { border: 1px solid #ccc; padding: 5px; margin: 10px 0; }
+form input, form textarea { width: 300px; margin: 5px 0; }
